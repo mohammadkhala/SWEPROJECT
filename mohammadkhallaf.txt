@@ -1,0 +1,6 @@
+git init 
+git config --global user.name "mohammadkhala"
+git config --global user.email "201166@ppu.edu.ps"
+dit add mohammadkhallaf.txt
+git commit -m "add my file "
+git push
