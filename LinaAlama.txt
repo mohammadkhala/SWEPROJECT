@@ -1,0 +1,8 @@
+git clone https://github.com/mohammadkhala/SWEPROJECT
+git init
+git config --global user.name "LinaAlama"
+git config --global user.email "217069@ppu.edu.ps"
+git add LinaAlama.txt
+git commit -m "add my file to SWE"
+git pull
+git push 
