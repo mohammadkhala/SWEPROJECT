@@ -1,6 +1,3 @@
 Hello 
 
-I'm Lina Alama
-
-
-This Is My Secound Homework.
+This is our secound homework.
