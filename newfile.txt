@@ -1,2 +1,2 @@
-This is the update for the secound user 
+This is the update for the secound user from Lina_Branch and then merged to the main branch 
 By:Lina 
