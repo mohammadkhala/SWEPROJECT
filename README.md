@@ -1,2 +1,2 @@
 # SWEPROJECT
-mohammad khallaf and lina alama
+Mohammad Khallaf and Lina Alama
