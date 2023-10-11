@@ -2,7 +2,7 @@ This is the update for the secound user from Lina_Branch
 And then merged to the main branch. 
 
 Steps:
-1) git checkout new-sweproject
+1) git checkout Lina_Branch
 2) git branch (to varify)
 3) git commit -m "Update newfile"
 4) git log --oneline --decorate --graph --all (to git info. about all branches we work in)
